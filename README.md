@@ -15,9 +15,9 @@ Analysis code and results for the study
 </p>
 
 ### Publication status
-Pre-printed as:
+Published as:
 
-Lynch, J., Sarih, L.H., Mole, J., Revill, G., Bell, V. (2025) Prevalence and moderators of apathy after traumatic brain injury: a systematic review and meta-analysis. *medRxiv* 2025.02.28.25323071. [doi: 10.1101/2025.02.28.25323071](https://doi.org/10.1101/2025.02.28.25323071)
+Lynch, J., Sarih, L.H., Mole, J., Revill, G., Bell, V. (2025) Prevalence and moderators of apathy after traumatic brain injury: a systematic review and meta-analysis. *Neuropsychological Rehabilitation*. [doi: 10.1080/09602011.2025.2559911](https://doi.org/10.1080/09602011.2025.2559911))
 
 ### Preregistration
 This systematic review and meta-analysis was preregistered on PROSPERO with the registration number CRD42024552306. The pre-registration can be accessed [here](https://www.crd.york.ac.uk/PROSPERO/view/CRD42024552306) and a copy is available in this archive.
